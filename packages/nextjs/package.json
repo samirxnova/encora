@@ -22,7 +22,7 @@
     "@zama-fhe/sdk": "^3.0.0",
     "blo": "~1.2.0",
     "daisyui": "5.0.9",
-    "next": "~15.2.3",
+    "next": "15.2.8",
     "next-nprogress-bar": "~2.3.13",
     "next-themes": "~0.3.0",
     "react": "~19.0.0",
